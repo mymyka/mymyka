@@ -33,8 +33,6 @@ I prefer:
 * Boring infrastructure that works
 * Shipping over endlessly polishing
 
-Sometimes an elegant SQL query is all you need.
-
 ### 🚢 Currently shipping
 
 Currently shipping for [VANTAGE by LetsData](https://letsdata.net)
