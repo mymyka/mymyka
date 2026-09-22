@@ -19,6 +19,13 @@ I like simple solutions, clean architecture, and code that doesn't need a 40-pag
 * 🐳 **Docker**
 * 💻 **TypeScript / JavaScript**
 
+### 📊 GitHub Stats
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mymyka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymyka&layout=compact&theme=tokyonight&hide_border=true" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mymyka&theme=tokyonight&hide_border=true)
+
 ### 🧠 How I think about software
 
 > "Do we really need another abstraction?"
@@ -37,9 +44,7 @@ Sometimes an elegant SQL query is all you need.
 
 ### 🚢 Currently shipping
 
-Currently shipping for [VANTAGE by LetsData](https://letsdata.net) 
-
-**I am shipping anyway.**
+Currently shipping for [VANTAGE by LetsData](https://letsdata.net)
 
 ### 📫 Find me
 
