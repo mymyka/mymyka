@@ -16,15 +16,8 @@ I like simple solutions, clean architecture, and code that doesn't need a 40-pag
 * 🗄️ **PostgreSQL & SQL**
 * 🤖 **AI / LLMs** — LangChain, LangGraph, LangSmith, Vertex AI
 * ☁️ **AWS / GCP**
-* 🐳 **Docker**
-* 💻 **TypeScript / JavaScript**
-
-### 📊 GitHub Stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mymyka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymyka&layout=compact&theme=tokyonight&hide_border=true" />
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mymyka&theme=tokyonight&hide_border=true)
+* 🐳 **Docker / Kubernetes**
+* 💻 **Vue**
 
 ### 🧠 How I think about software
 
