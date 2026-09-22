@@ -1,8 +1,6 @@
-# Hey 👋
+# Hey 👋 I'm Mykyta
 
 <img src="banner.png" alt="I am shipping" width="100%" />
-
-## I'm Mykyta
 
 **Fullstack Python & AI Backend Engineer** based in Bydgoszcz, Poland.
 
